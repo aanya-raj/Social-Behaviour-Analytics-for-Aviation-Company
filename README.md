@@ -60,7 +60,7 @@ The data used in this project is fictional and the result obtained is also not a
 
 
 ## References
-https://www.kaggle.com/
+https://www.kaggle.com/ \
 https://scikit-learn.org/stable/
 ## Contact
 For any queries or suggestions, please contact me at [aanya.rajsingh@yahoo.in].
